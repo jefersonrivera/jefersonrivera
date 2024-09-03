@@ -6,9 +6,9 @@
  </p>
 <br>
 
-- 🔭 Actualmente Estoy Trabajando En: SOY ESTUDIANTE
+
 - 🌱 Actualmente Estoy Estudiando: DESARROLLO WEB FULL STACK JAVA SCRIPT
-- 👯 Estoy Buscando En Colaborar: UN PROYECTO EN COLABORACION CON 3 PROGRAMADORES 
+- 👯 Estoy Buscando En Colaborar: UN PROYECTO CON 3 PROGRAMADORES 
 
 - 💬 Preguntame Sobre: HTML5-CSS AVANZADO-FLEXBOX-BOOTSRAP-GIT-GITHUB-GRID-MEDIA QUERY-ANIMACIONES-JAVA SCRIP.
 - 📫 Contactame: <a href="jeferson.rivera0717@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
