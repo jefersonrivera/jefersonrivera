@@ -17,7 +17,7 @@
 	<a href="https://web.facebook.com/jefersonandres.rivera"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/jeferson_andres_rivera/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-- ⚡ Dato Curioso: ME GUSTA ELDEPORTE
+- ⚡ Dato Curioso: ME GUSTA EL DEPORTE
 <br>
 
  
